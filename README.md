@@ -85,32 +85,6 @@ class RojeshDahal:
 
 ---
 
-## 🎯 Current Learning Roadmap
-
-- ✅ Python Fundamentals
-- ✅ Object-Oriented Programming
-- ✅ Django Fundamentals
-- ✅ Authentication & Authorization
-- ✅ CRUD Applications
-- 🔄 Django REST Framework
-
-
----
-
-## 🚀 Featured Projects
-
-### 🍽️ Calorie Tracking App
-Django-based calorie tracking application with authentication and meal management.
-
-### 📝 Blog Application
-A complete Django blog featuring authentication, search, pagination, and user profiles.
-
-### 🌦️ Weather Dashboard
-Python application using APIs to fetch and display weather information.
-
-### 🎓 Student Management System
-CRUD application built using Django and Tailwind CSS.
-
 ---
 
 ## 📚 Currently Exploring
@@ -137,7 +111,7 @@ Python Advanced Concepts
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/rojeshdahal">
+<a href="https://linkedin.com/in/rojesh-dahal-799023235">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -153,7 +127,7 @@ Python Advanced Concepts
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rojeshdahal&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
