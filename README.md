@@ -2,9 +2,9 @@
 
 # Hi there, I'm Rojesh Babu Dahal 👋
 
-### Python Developer | Django Enthusiast
+### Python Developer | Django 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Building+Projects+Every+Day;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Projects+Every+Day;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
