@@ -4,7 +4,7 @@
 
 ### Python Developer | Django Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;AI+Engineering+Student;Building+Projects+Every+Day;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;Building+Projects+Every+Day;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -19,15 +19,11 @@ class RojeshDahal:
         self.location = "Nepal 🇳🇵"
         self.role = "Python Developer"
         self.learning = [
-            "Django",
-            "Django REST Framework",
-            "Machine Learning",
-            "AI Engineering",
-            "System Design"
+            "Django"
         ]
 
     def current_goal(self):
-        return "Become a skilled AI Engineer and Backend Developer"
+        return "Become a skilled Software Engineer"
 ```
 
 - 🌱 Currently learning **Django*
@@ -63,7 +59,7 @@ class RojeshDahal:
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
@@ -71,9 +67,9 @@ class RojeshDahal:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojeshdahal&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojeshdahal&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -83,7 +79,7 @@ class RojeshDahal:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rojeshdahal&theme=tokyonight&hide_border=true)
 
 </div>
 
