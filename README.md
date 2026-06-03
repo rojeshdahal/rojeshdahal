@@ -4,7 +4,7 @@
 
 ### Python Developer | Django 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Projects+Every+Day;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Projects;Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -27,7 +27,7 @@ class RojeshDahal:
 ```
 
 - 🌱 Currently learning **Django*
-- 💻 Building projects to strengthen my Python skills
+- 💻 Building projects to strengthen my skills
 - 📚 Learning by creating real-world applications
 - 🎯 Goal: Become a professional Software Engineer
 - ⚡ Fun fact: I enjoy turning ideas into code
