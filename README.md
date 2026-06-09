@@ -4,7 +4,7 @@
 
 ### Python Developer | Django 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Projects;Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;BSc.CSIT+Graduate;Building+Projects;Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -25,13 +25,6 @@ class RojeshDahal:
     def current_goal(self):
         return "Become a skilled Software Engineer"
 ```
-
-- 🌱 Currently learning **Django*
-- 💻 Building projects to strengthen my skills
-- 📚 Learning by creating real-world applications
-- 🎯 Goal: Become a professional Software Engineer
-- ⚡ Fun fact: I enjoy turning ideas into code
-
 ---
 
 ## 🛠️ Tech Stack
@@ -84,13 +77,6 @@ class RojeshDahal:
 ---
 
 ## 📚 Currently Exploring
-
-```text
-Python Advanced Concepts
-├── Django REST Framework
-└── PostgreSQL
-```
-
 ---
 
 ## 💡 Developer Philosophy
@@ -102,10 +88,6 @@ Python Advanced Concepts
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/rojeshdahal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 <a href="https://linkedin.com/in/rojesh-dahal-799023235">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
