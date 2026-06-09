@@ -74,11 +74,6 @@ class RojeshDahal:
 
 ---
 
----
-
-## 📚 Currently Exploring
----
-
 ## 💡 Developer Philosophy
 
 > "Consistency beats intensity. Small improvements every day lead to extraordinary results."
