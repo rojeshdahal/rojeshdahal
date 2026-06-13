@@ -50,17 +50,15 @@ class RojeshDahal:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
----
+<!-- --- -->
 
-## 📈 GitHub Stats
+<!--📈 GitHub Stats-->
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojeshdahal&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojeshdahal&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
